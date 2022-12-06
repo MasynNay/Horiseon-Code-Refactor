@@ -53,6 +53,7 @@ p {
 }
 
 /* Hero */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +64,7 @@ p {
 }
 
 /* Main */
+
 main {
     width: 75%;
     display: inline-block;
@@ -99,6 +101,7 @@ main {
 }
 
 /* Benefits  */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -127,6 +130,7 @@ main {
 }
 
 /* Footer  */
+
 footer {
     padding: 30px;
     clear: both;
